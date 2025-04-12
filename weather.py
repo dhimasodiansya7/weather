@@ -1,6 +1,3 @@
-
-### **2️⃣ Cod (`weather.py`)**
-```python
 import requests
 
 API_KEY = "your_api_key_here"  # Replace with your API key
